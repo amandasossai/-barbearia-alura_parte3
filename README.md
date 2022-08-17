@@ -1,2 +1,2 @@
-# -barbearia-alura_parte3
-Projeto construído durante o Curso HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas.
+Este curso abordou os seguintes tópicos:
+Criando uma nova página; Começando um formulário; Tipos de campos diferentes; Melhorando a semântica; CSS avançado; Estrutura de tabelas.
